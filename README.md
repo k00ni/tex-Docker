@@ -1,6 +1,6 @@
 # latex
 
-Full texlive distribution
+Full texlive distribution which is based on `ubuntu:xenial`.
 
 ## Usage
 
