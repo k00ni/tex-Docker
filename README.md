@@ -23,6 +23,12 @@ $ pdflatex my-document.tex
 $ xelatex my-document.tex
 ```
 
+#### PDF zu PNG/JPG/...
+
+```sh
+$ pdftoppm foo.pdf bar.png -png
+```
+
 ## Acknowledgement
 
 This is an adapted version of [schickling/dockerfiles](https://github.com/schickling/dockerfiles/tree/master/latex).
